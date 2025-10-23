@@ -5,6 +5,11 @@ This Spring Boot application demonstrates persisting and managing `Hotel` entiti
 
 ---
 
+## Project Preview
+[ Image 1: Image1.png ]
+
+---
+
 ## Project Structure
 ```
 HotelJUnitProject
